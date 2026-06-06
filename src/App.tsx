@@ -832,7 +832,7 @@ export default function App() {
                   { num: '10+', label: 'Years of Excellence' },
                   { num: '200+', label: 'Projects Delivered' },
                   { num: '5', label: 'Cities Across India' },
-                  { num: '500+', label: 'Happy Families' },
+                  { num: '300+', label: 'Happy Clients' },
                 ].map((s) => (
                   <div
                     key={s.label}
