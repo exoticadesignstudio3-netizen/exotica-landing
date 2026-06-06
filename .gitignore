@@ -12,6 +12,14 @@ dist
 dist-ssr
 *.local
 
+# Raw source assets (already copied to public/)
+/1/
+/2/
+/1.zip
+/2.zip
+/video1.mp4
+/VIDEO-*.mp4
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
